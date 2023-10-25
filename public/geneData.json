@@ -1,0 +1,21 @@
+{
+    "E": {"name": "Extension of black", "alleles": ["E", "e"]},
+    "Co": {"name": "Columbia", "alleles": ["Co", "co"]},
+    "Db": {"name": "Dark Brown", "alleles": ["Db", "db"]},
+    "Pg": {"name": "Pattern gene", "alleles": ["Pg", "pg"]},
+    "Ml": {"name": "Melanotic", "alleles": ["Ml", "ml"]},
+    "Cha": {"name": "Charcoal", "alleles": ["Cha", "cha"]},
+    "Mh": {"name": "Mahogany", "alleles": ["Mh", "mh"]},
+    "Di": {"name": "Dilute", "alleles": ["Di", "di"]},
+    "Ig": {"name": "Inhibitor of Gold", "alleles": ["Ig", "ig"]},
+    "Cb": {"name": "Champagne Blond", "alleles": ["Cb", "cb"]},
+    "S": {"name": "Silver", "alleles": ["S", "s"]},
+    "B": {"name": "Barring", "alleles": ["B", "b"]},
+    "Choc": {"name": "Chocolate", "alleles": ["Choc", "choc"]},
+    "I": {"name": "Dominant White", "alleles": ["I", "i"]},
+    "Bl": {"name": "Blue", "alleles": ["Bl", "bl"]},
+    "Mo": {"name": "Mottling", "alleles": ["Mo", "mo"]},
+    "C": {"name": "Recessive White", "alleles": ["C", "c"]},
+    "Lav": {"name": "Lavender", "alleles": ["Lav", "lav"]}
+  }
+  
