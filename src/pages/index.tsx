@@ -32,18 +32,8 @@ const Home: React.FC = () => {
     fetchGeneData();
   }, []);
 
-  const handleFemaleGeneChange = (gene: string, allele: string) => {
-    setFemaleGene(gene);
-    setFemaleAllele(allele);
-  };
-
-  const handleMaleGeneChange = (gene: string, allele: string) => {
-    setMaleGene(gene);
-    setMaleAllele(allele);
-  };
-
-  //core logic of calculation
-  const calculateFeatherColor = (
+  //core logic of gene and calculation
+  const calculateAlleles = (
     selectedGene: string,
     femaleAllele: string,
     maleAllele: string
@@ -54,9 +44,8 @@ const Home: React.FC = () => {
     ];
     return `Possible Alleles: ${possibleCombinations.join(", ")}`;
   };
-
   const calculateResults = () => {
-    const featherColor = calculateFeatherColor(
+    const featherColor = calculateAlleles(
       selectedGene,
       femaleAllele,
       maleAllele
