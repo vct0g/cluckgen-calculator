@@ -32,7 +32,7 @@ const Home: React.FC = () => {
     fetchGeneData();
   }, []);
 
-  //core logic of gene and calculation
+  //core logic of gene calculation
   const calculateAlleles = (
     selectedGene: string,
     femaleAllele: string,
@@ -42,7 +42,7 @@ const Home: React.FC = () => {
       femaleAllele + maleAllele,
       maleAllele + femaleAllele,
     ];
-    return `Possible Alleles: ${possibleCombinations.join(", ")}`;
+    return `Possible Alleles Combinations: ${possibleCombinations.join(", ")}`;
   };
   const calculateResults = () => {
     const featherColor = calculateAlleles(
