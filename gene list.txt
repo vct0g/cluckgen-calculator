@@ -1,0 +1,126 @@
+<select id="ElocM">
+<option value="e+/e+" selected="">e+/e+ duckwing/light brown</option>
+<option value="e+/e^b">e+/e^b</option>
+<option value="E^Wh/e+">e+/E^Wh</option>
+<option value="E/E">E/E extended black</option>
+<option value="E/E^R">E/E^R</option>
+<option value="E/E^Wh">E/E^Wh</option>
+<option value="E/e+">E/e+</option>
+<option value="E/e^b">E/e^b</option>
+<option value="E^R/E^R">E^R/E^R birchen/crowwing</option>
+<option value="E^R/E^Wh">E^R/E^Wh</option>
+<option value="E^R/e+">E^R/e+</option>
+<option value="E^R/e^b">E^R/e^b</option>
+<option value="E^Wh/E^Wh">E^Wh/E^Wh wheaten</option>
+<option value="E^Wh/e^b">E^Wh/e^b</option>
+<option value="e^b/e^b">e^b/e^b partridge/brown</option>
+</select>
+
+<select id="CoM">
+<option value="co+/co+" selected="">co+/co+</option>
+<option value="Co/Co">Co/Co columbia</option>
+<option value="Co/co+">Co/co+</option>
+</select>
+
+<select id="DbM">
+<option value="db+/db+" selected="">db+/db+</option>
+<option value="Db/Db">Db/Db blacktail</option>
+<option value="Db/db+">Db/db+</option>
+</select>
+
+<select id="PgM">
+<option value="pg+/pg+" selected="">pg+/pg+</option>
+<option value="Pg/Pg">Pg/Pg (laced)</option>
+<option value="Pg/pg+">Pg/pg+</option>
+</select>
+
+<select id="MlM">
+<option value="ml+/ml+" selected="">ml+/ml+</option>
+<option value="Ml/Ml">Ml/Ml melanised</option>
+<option value="Ml/ml+">Ml/ml+</option>
+</select>
+
+<select id="ChaM">
+<option value="Cha+/Cha+" selected="">Cha+/Cha+</option>
+<option value="cha/cha">cha/cha melanised</option>
+<option value="Cha+/cha">Cha+/cha</option>
+</select>
+
+<select id="MhM">
+<option value="mh+/mh+" selected="">mh+/mh+</option>
+<option value="Mh/Mh">Mh/Mh red</option>
+<option value="Mh/mh+">Mh/mh+</option>
+</select>
+
+<select id="DiM">
+<option value="di+/di+" selected="">di+/di+</option>
+<option value="Di/Di">Di/Di dilute</option>
+<option value="Di/di+">Di/di+</option>
+</select>
+
+<select id="IgM">
+<option value="Ig+/Ig+" selected="">Ig+/Ig+</option>
+<option value="ig/ig">ig/ig cream/lemon</option>
+<option value="Ig+/ig">Ig+/ig</option>
+</select>
+
+<select id="CbM">
+<option value="cb+/cb+" selected="">cb+/cb+</option>
+<option value="Cb/Cb">Cb/Cb cream/blonde</option>
+<option value="Cb/cb+">Cb/cb+</option>
+</select>
+
+<select id="SlocM">
+<option value="s+/s+" selected="">s+/s+ gold/wildtype</option>
+<option value="S/S">S/S silver</option>
+<option value="S/s+">S/s+ ("golden")</option>
+</select>
+
+<select id="BlocM">
+<option value="b+/b+" selected="">b+/b+</option>
+<option value="B/B" title="DF=Double Factor">B/B light cuckoo/barred (DF)</option>
+<option value="B/b+">B/b+ dark cuckoo/barred</option>
+</select>
+
+<select id="ChocM">
+<option value="Choc+/Choc+" selected="">Choc+/Choc+</option>
+<option value="choc/choc">choc/choc chocolate</option>
+<option value="Choc+/choc">Choc+/choc</option>
+</select>
+
+<select id="IlocM">
+<option value="i+/i+" selected="">i+/i+ black/wildtype</option>
+<option value="I/I">I/I dominant white</option>
+<option value="I/i+">I/i+</option>
+<option value="I/I^d">I/I^d</option>
+<option value="I/I^s">I/I^s smokey</option>
+<option value="I^d/I^d">I^d/I^d khaki</option>
+<option value="I^d/i+">I^d/i+ dun/chocolate</option>
+<option value="I^s/I^s">I^s/I^s smokey</option>
+<option value="I^s/I^d">I^s/I^d</option>
+<option value="I^s/i+">I^s/i+ black</option>
+</select>
+
+<select id="BlM">
+<option value="bl+/bl+" selected="">bl+/bl+</option>
+<option value="Bl/bl+">Bl/bl+ blue (andalusian)</option>
+<option value="Bl/Bl">Bl/Bl splash</option>
+</select>
+
+<select id="MoM">
+<option value="Mo+/Mo+" selected="">Mo+/Mo+</option>
+<option value="mo/mo">mo/mo mottled</option>
+<option value="Mo+/mo">Mo+/mo</option>
+</select>
+
+<select id="ClocM">
+<option value="C+/C+" selected="">C+/C+</option>
+<option value="c/c">c/c recessive white</option>
+<option value="C+/c">C+/c</option>
+</select>
+
+<select id="LavM">
+<option value="Lav+/Lav+" selected="">Lav+/Lav+</option>
+<option value="lav/lav">lav/lav lavender ("self blue")</option>
+<option value="Lav+/lav">Lav+/lav</option>
+</select>
