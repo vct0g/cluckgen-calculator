@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import GeneSelector from "../components/GeneSelector";
 import Results from "../components/Results";
 
 const Home: React.FC = () => {
